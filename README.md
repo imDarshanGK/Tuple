@@ -23,3 +23,14 @@ str and float int solution:
         32
         SIET
         44.44
+list, set and dict.
+solution:
+
+                minimum= 22
+                maximum= 87
+                sum= 340
+                length= 6
+                sorted marks= [22, 34, 54, 65, 78, 87]
+                Traceback (most recent call last):
+                File "C:/Users/Darshan/Desktop/Built in functions which works on tuple, list, set and dict..py", line 9, in <module>
+                print("marks=",marks)
