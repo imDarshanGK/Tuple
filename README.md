@@ -34,3 +34,9 @@ solution:
                 Traceback (most recent call last):
                 File "C:/Users/Darshan/Desktop/Built in functions which works on tuple, list, set and dict..py", line 9, in <module>
                 print("marks=",marks)
+
+Tuple supports concatenation
+
+solution:
+
+     d= (2, 4, 6, 1, 3, 9, 12, 4, 8, 6)
