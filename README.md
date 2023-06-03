@@ -26,23 +26,42 @@ str and float int solution:
 list, set and dict.
 solution:
 
-                minimum= 22
-                maximum= 87
-                sum= 340
-                length= 6
-                sorted marks= [22, 34, 54, 65, 78, 87]
-                Traceback (most recent call last):
-                File "C:/Users/Darshan/Desktop/Built in functions which works on tuple, list, set and dict..py", line 9, in <module>
-                print("marks=",marks)
+        minimum= 22
+        maximum= 87
+        sum= 340
+        length= 6
+        sorted marks= [22, 34, 54, 65, 78, 87]
+        Traceback (most recent call last):
+        File "C:/Users/Darshan/Desktop/Built in functions which works on tuple, list, set and dict..py", line 9, in <module>
+        print("marks=",marks)
 
 Tuple supports concatenation
 
 solution:
 
-     d= (2, 4, 6, 1, 3, 9, 12, 4, 8, 6)
+        d= (2, 4, 6, 1, 3, 9, 12, 4, 8, 6)
      
 Tuple supports repetition
 
 solution:
 
-     b= (2, 4, 6, 2, 4, 6, 2, 4, 6)
+        b= (2, 4, 6, 2, 4, 6, 2, 4, 6)
+     
+Tuple supports slicing
+
+solution:
+
+        (6, 8, 10, 12, 14, 16)
+        (10, 12, 14, 16, 18, 20)
+        (2, 4, 6, 8, 10, 12)
+        (12, 14, 16, 18, 20, 22, 24, 26, 28, 30)
+        30
+        28
+        26
+        (6, 10, 14, 18, 22)
+        (2, 6, 10, 14, 18, 22, 26, 30)
+        (4, 8, 12, 16, 20, 24, 28)
+        (30, 28, 26, 24)
+        (30, 28, 26, 24, 22, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2)
+
+
