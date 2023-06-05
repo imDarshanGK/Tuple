@@ -74,3 +74,13 @@ solution:
         0
         0
         1
+Tuple is immutable
+
+Tuple once created cannot be modified.
+* cannot insert single value
+* Cannot delete single value
+* cannot update value
+
+solution:
+
+     #gives error
